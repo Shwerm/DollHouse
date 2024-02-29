@@ -1,4 +1,2 @@
 ﻿  Test.cpp
-     Creating library C:\DollHouse\DollHouse\bin\Debug-x64\DollHouse\DollHouse.lib and object C:\DollHouse\DollHouse\bin\Debug-x64\DollHouse\DollHouse.exp
-MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
-C:\DollHouse\DollHouse\bin\Debug-x64\DollHouse\DollHouse.exe : fatal error LNK1120: 1 unresolved externals
+  DollHouse.vcxproj -> C:\DollHouse\DollHouse\bin\Debug-x64\DollHouse\DollHouse.dll

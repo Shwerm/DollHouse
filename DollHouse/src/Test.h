@@ -2,6 +2,6 @@
 
 namespace DollHouse {
 
-	__declspec(dllexport)void Print();
+	__declspec(dllexport) void Print();
 
 }
