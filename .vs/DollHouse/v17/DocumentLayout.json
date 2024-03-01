@@ -3,28 +3,36 @@
   "WorkspaceRootPath": "C:\\DollHouse\\DollHouse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E8A9BA5F-B77E-469E-BE8D-EFD025A9658C}|SandBox\\SandBox.vcxproj|C:\\DollHouse\\DollHouse\\SandBox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E8A9BA5F-B77E-469E-BE8D-EFD025A9658C}|SandBox\\SandBox.vcxproj|solutionrelative:SandBox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A70C77BC-8B76-4C75-9F38-40A8BD11723A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -53,32 +61,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.cpp",
+              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Log.cpp",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.cpp",
+              "RelativeToolTip": "DollHouse\\src\\DollHouse\\Log.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-01T08:37:03.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log.h",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.h",
+              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Log.h",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.h",
+              "RelativeToolTip": "DollHouse\\src\\DollHouse\\Log.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-01T08:34:26.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DollHouse.h",
               "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse.h",
               "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse.h",
               "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse.h",
               "RelativeToolTip": "DollHouse\\src\\DollHouse.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-02-29T20:42:22.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EntryPoint.h",
               "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\EntryPoint.h",
               "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\EntryPoint.h",
               "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\EntryPoint.h",
               "RelativeToolTip": "DollHouse\\src\\DollHouse\\EntryPoint.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-02-29T20:56:11.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Application.cpp",
               "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.cpp",
               "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Application.cpp",
@@ -91,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Core.h",
               "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Core.h",
               "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Core.h",
@@ -104,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Application.h",
               "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.h",
               "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Application.h",

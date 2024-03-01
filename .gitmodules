@@ -1,0 +1,3 @@
+[submodule "DollHouse/vendor/spdlog"]
+	path = DollHouse/vendor/spdlog
+	url = https://github.com/gabime/spdlog

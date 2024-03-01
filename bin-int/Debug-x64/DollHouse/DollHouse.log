@@ -1,3 +1,12 @@
-﻿  Application.cpp
-     Creating library C:\DollHouse\DollHouse\bin\Debug-x64\DollHouse\DollHouse.lib and object C:\DollHouse\DollHouse\bin\Debug-x64\DollHouse\DollHouse.exp
+﻿  Log.cpp
+C:\DollHouse\DollHouse\DollHouse\src\DollHouse\Log.h(18,42): warning C4251: 'DollHouse::Log::s_CoreLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'DollHouse::Log'
+  (compiling source file 'src/DollHouse/Log.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(1525,7):
+  see declaration of 'std::shared_ptr<spdlog::logger>'
+  
+C:\DollHouse\DollHouse\DollHouse\src\DollHouse\Log.h(19,42): warning C4251: 'DollHouse::Log::s_ClientLogger': class 'std::shared_ptr<spdlog::logger>' needs to have dll-interface to be used by clients of class 'DollHouse::Log'
+  (compiling source file 'src/DollHouse/Log.cpp')
+  C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\include\memory(1525,7):
+  see declaration of 'std::shared_ptr<spdlog::logger>'
+  
   DollHouse.vcxproj -> C:\DollHouse\DollHouse\bin\Debug-x64\DollHouse\DollHouse.dll
