@@ -18,6 +18,9 @@ project "DollHouse"
 	targetdir ("bin/" .. outputdir .. "/%{prj.name}")
 	objdir ("bin-int/" .. outputdir .. "/%{prj.name}")
 
+	pchheader "dhpch.h"
+	pchsource "DollHouse/src/dhpch.cpp"
+
 	files
 	{
 		"%{prj.name}/src/**.h",
@@ -26,13 +29,14 @@ project "DollHouse"
 
 	includedirs
 	{
+		"%{prj.name}/src",
 		"%{prj.name}/vendor/spdlog/include;"
 	}
 
 	filter "system:windows"
 		cppdialect "C++17" 
 		staticruntime "On"
-		systemversion "10.0"
+		systemversion "latest"
 
 		defines
 		{

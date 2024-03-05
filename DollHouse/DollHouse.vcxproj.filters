@@ -4,6 +4,9 @@
     <Filter Include="DollHouse">
       <UniqueIdentifier>{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}</UniqueIdentifier>
     </Filter>
+    <Filter Include="DollHouse\Event">
+      <UniqueIdentifier>{6565543E-D1F0-C102-DA01-45F7460C1E03}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\DollHouse.h" />
@@ -16,9 +19,22 @@
     <ClInclude Include="src\DollHouse\EntryPoint.h">
       <Filter>DollHouse</Filter>
     </ClInclude>
+    <ClInclude Include="src\DollHouse\Event\ApplicationEvent.h">
+      <Filter>DollHouse\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="src\DollHouse\Event\Event.h">
+      <Filter>DollHouse\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="src\DollHouse\Event\KeyEvent.h">
+      <Filter>DollHouse\Event</Filter>
+    </ClInclude>
+    <ClInclude Include="src\DollHouse\Event\MouseEvent.h">
+      <Filter>DollHouse\Event</Filter>
+    </ClInclude>
     <ClInclude Include="src\DollHouse\Log.h">
       <Filter>DollHouse</Filter>
     </ClInclude>
+    <ClInclude Include="src\dhpch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\DollHouse\Application.cpp">
@@ -27,5 +43,6 @@
     <ClCompile Include="src\DollHouse\Log.cpp">
       <Filter>DollHouse</Filter>
     </ClCompile>
+    <ClCompile Include="src\dhpch.cpp" />
   </ItemGroup>
 </Project>

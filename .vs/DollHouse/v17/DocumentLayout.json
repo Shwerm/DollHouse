@@ -7,24 +7,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:premake5.lua||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4C124E3-60A1-A37E-69B9-2E55D5170AE0}|Sandbox\\Sandbox.vcxproj|C:\\DollHouse\\DollHouse\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F4C124E3-60A1-A37E-69B9-2E55D5170AE0}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\DollHouse\\DollHouse\\GenerateProjects.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GenerateProjects.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\dhpch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\dhpch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -35,12 +19,48 @@
       "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Log.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Event\\MouseEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Event\\MouseEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Event\\KeyEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Event\\KeyEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Event\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Event\\Event.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Event\\ApplicationEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\DollHouse\\Event\\ApplicationEvent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|C:\\DollHouse\\DollHouse\\DollHouse\\src\\dhpch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14658ACE-80CF-3E45-C90D-F0EA35B71C9A}|DollHouse\\DollHouse.vcxproj|solutionrelative:DollHouse\\src\\dhpch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4C124E3-60A1-A37E-69B9-2E55D5170AE0}|Sandbox\\Sandbox.vcxproj|C:\\DollHouse\\DollHouse\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4C124E3-60A1-A37E-69B9-2E55D5170AE0}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,20 +70,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SandboxApp.cpp",
-              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\SandBox\\src\\SandboxApp.cpp",
-              "RelativeDocumentMoniker": "SandBox\\src\\SandboxApp.cpp",
-              "ToolTip": "C:\\DollHouse\\DollHouse\\SandBox\\src\\SandboxApp.cpp",
-              "RelativeToolTip": "SandBox\\src\\SandboxApp.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 13,
+              "Title": "dhpch.cpp",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\dhpch.cpp",
+              "RelativeDocumentMoniker": "DollHouse\\src\\dhpch.cpp",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\dhpch.cpp",
+              "RelativeToolTip": "DollHouse\\src\\dhpch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-29T20:25:13.821Z",
+              "WhenOpened": "2024-03-05T20:01:29.044Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dhpch.h",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\dhpch.h",
+              "RelativeDocumentMoniker": "DollHouse\\src\\dhpch.h",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\dhpch.h",
+              "RelativeToolTip": "DollHouse\\src\\dhpch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-05T20:01:04.897Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.cpp",
+              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Log.cpp",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.cpp",
+              "RelativeToolTip": "DollHouse\\src\\DollHouse\\Log.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-05T20:08:33.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Log.h",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.h",
+              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Log.h",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.h",
+              "RelativeToolTip": "DollHouse\\src\\DollHouse\\Log.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-05T19:53:11.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DollHouse.h",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse.h",
+              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse.h",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse.h",
+              "RelativeToolTip": "DollHouse\\src\\DollHouse.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-29T20:42:22.491Z",
               "EditorCaption": ""
             },
             {
@@ -74,106 +147,126 @@
               "RelativeDocumentMoniker": "premake5.lua",
               "ToolTip": "C:\\DollHouse\\DollHouse\\premake5.lua",
               "RelativeToolTip": "premake5.lua",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-01T10:52:00.059Z",
+              "WhenOpened": "2024-03-05T20:09:03.816Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GenerateProjects.bat",
-              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\GenerateProjects.bat",
-              "RelativeDocumentMoniker": "GenerateProjects.bat",
-              "ToolTip": "C:\\DollHouse\\DollHouse\\GenerateProjects.bat",
-              "RelativeToolTip": "GenerateProjects.bat",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAFAAAA",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE6SURBVDhPY6AI/P//H8oiHzBWlpfeBxqlAOWTCBgfMJGi2ds3AIUG660sL/n/69cvDLznyJn/uw6dwioHwyC9QBeggqu3HzDsOHiS4d37Dwxv371nWL/9AMO5yzegspgAwwAWJiaGb9\u002B\u002BM5joaTKYGmgxfPv\u002BjYGFBUMZHGDI/Pn7l\u002BH3718Mf//9ZfgHZP/5/Zvhz5\u002B/UFlMgGHAz58/GRiB9IGjpxj2HTnBwAjknDp7HuiSHxAFaADDACNdDYYwPzcGPh4uhr9Am5\u002B9eMrw6Mljho6\u002BiQw3bt6GqkIAnJ4L9HJh8HS2Yfj44SNDW005w4d37xg4ONigsgiAO3SA4OtXYAACVeQWlTKwsjJjTbl4DVBXVWaoKMpnsLG0YOjtaGNQVMBMc8CkXAxMyoxkJuX/D6CMAQMMDABIjqFEM6osUwAAAABJRU5ErkJggg==",
-              "WhenOpened": "2024-03-01T10:40:51.336Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Log.cpp",
-              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.cpp",
-              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Log.cpp",
-              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.cpp",
-              "RelativeToolTip": "DollHouse\\src\\DollHouse\\Log.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-01T08:37:03.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Log.h",
-              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.h",
-              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Log.h",
-              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Log.h",
-              "RelativeToolTip": "DollHouse\\src\\DollHouse\\Log.h",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-03-01T08:34:26.324Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DollHouse.h",
-              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse.h",
-              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse.h",
-              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse.h",
-              "RelativeToolTip": "DollHouse\\src\\DollHouse.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-02-29T20:42:22.491Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "EntryPoint.h",
               "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\EntryPoint.h",
               "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\EntryPoint.h",
               "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\EntryPoint.h",
               "RelativeToolTip": "DollHouse\\src\\DollHouse\\EntryPoint.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-02-29T20:56:11.59Z"
+              "WhenOpened": "2024-02-29T20:56:11.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Application.cpp",
-              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.cpp",
-              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Application.cpp",
-              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.cpp",
-              "RelativeToolTip": "DollHouse\\src\\DollHouse\\Application.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-29T20:21:53.795Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Core.h",
               "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Core.h",
               "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Core.h",
               "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Core.h",
               "RelativeToolTip": "DollHouse\\src\\DollHouse\\Core.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-02-29T20:18:46.006Z"
+              "WhenOpened": "2024-02-29T20:18:46.006Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Application.h",
               "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.h",
               "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Application.h",
               "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.h",
               "RelativeToolTip": "DollHouse\\src\\DollHouse\\Application.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-02-29T20:19:10.186Z"
+              "WhenOpened": "2024-02-29T20:19:10.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.cpp",
+              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Application.cpp",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Application.cpp",
+              "RelativeToolTip": "DollHouse\\src\\DollHouse\\Application.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T20:21:53.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MouseEvent.h",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Event\\MouseEvent.h",
+              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Event\\MouseEvent.h",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Event\\MouseEvent.h",
+              "RelativeToolTip": "DollHouse\\src\\DollHouse\\Event\\MouseEvent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-01T19:46:59.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KeyEvent.h",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Event\\KeyEvent.h",
+              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Event\\KeyEvent.h",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Event\\KeyEvent.h",
+              "RelativeToolTip": "DollHouse\\src\\DollHouse\\Event\\KeyEvent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-01T19:46:47.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Event.h",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Event\\Event.h",
+              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Event\\Event.h",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Event\\Event.h",
+              "RelativeToolTip": "DollHouse\\src\\DollHouse\\Event\\Event.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-05T20:06:38.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationEvent.h",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Event\\ApplicationEvent.h",
+              "RelativeDocumentMoniker": "DollHouse\\src\\DollHouse\\Event\\ApplicationEvent.h",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\DollHouse\\src\\DollHouse\\Event\\ApplicationEvent.h",
+              "RelativeToolTip": "DollHouse\\src\\DollHouse\\Event\\ApplicationEvent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-01T19:46:33.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SandboxApp.cpp",
+              "DocumentMoniker": "C:\\DollHouse\\DollHouse\\SandBox\\src\\SandboxApp.cpp",
+              "RelativeDocumentMoniker": "SandBox\\src\\SandboxApp.cpp",
+              "ToolTip": "C:\\DollHouse\\DollHouse\\SandBox\\src\\SandboxApp.cpp",
+              "RelativeToolTip": "SandBox\\src\\SandboxApp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-29T20:25:13.821Z"
             }
           ]
         }
